@@ -1,0 +1,34 @@
+Username: fernando-pacheco
+URL do Perfil: https://github.com/fernando-pacheco
+E-mail: -----
+Quantidade de Repositórios Públicos: 26
+Seguidores: 0
+Seguindo: 0
+
+Repositórios:
+	1 - Agenda: https://github.com/fernando-pacheco/Agenda
+	2 - api_django: https://github.com/fernando-pacheco/api_django
+	3 - api_django2: https://github.com/fernando-pacheco/api_django2
+	4 - api_fastapi: https://github.com/fernando-pacheco/api_fastapi
+	5 - app_delivery: https://github.com/fernando-pacheco/app_delivery
+	6 - Blog: https://github.com/fernando-pacheco/Blog
+	7 - Calculadora-JS: https://github.com/fernando-pacheco/Calculadora-JS
+	8 - Chess-System: https://github.com/fernando-pacheco/Chess-System
+	9 - django_base: https://github.com/fernando-pacheco/django_base
+	10 - django_REST: https://github.com/fernando-pacheco/django_REST
+	11 - DropBox-JS: https://github.com/fernando-pacheco/DropBox-JS
+	12 - E-Commerce: https://github.com/fernando-pacheco/E-Commerce
+	13 - game_js: https://github.com/fernando-pacheco/game_js
+	14 - Gerenciamento-API-JS: https://github.com/fernando-pacheco/Gerenciamento-API-JS
+	15 - Gerenciamento-Usuario: https://github.com/fernando-pacheco/Gerenciamento-Usuario
+	16 - hacker-rank: https://github.com/fernando-pacheco/hacker-rank
+	17 - Locadora: https://github.com/fernando-pacheco/Locadora
+	18 - ms-adega: https://github.com/fernando-pacheco/ms-adega
+	19 - python-automacao: https://github.com/fernando-pacheco/python-automacao
+	20 - python-django-project: https://github.com/fernando-pacheco/python-django-project
+	21 - Restaurante-JS: https://github.com/fernando-pacheco/Restaurante-JS
+	22 - spring-boot-api: https://github.com/fernando-pacheco/spring-boot-api
+	23 - test-Topaz: https://github.com/fernando-pacheco/test-Topaz
+	24 - visie-interview: https://github.com/fernando-pacheco/visie-interview
+	25 - workshop-Django: https://github.com/fernando-pacheco/workshop-Django
+	26 - wpp-Clone-JS: https://github.com/fernando-pacheco/wpp-Clone-JS
